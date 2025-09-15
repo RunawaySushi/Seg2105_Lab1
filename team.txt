@@ -1,7 +1,0 @@
-Raymond Tan
-<<<<<<< HEAD
-
-=======
-Satwik Toleti
-James Rousseau
->>>>>>> 23f2fb515e2b9a7d2ca328fe63d405914156d314
